@@ -92,7 +92,7 @@
 // Temperature Sensors
 //
 #define TEMP_0_PIN                          PA0   // Analog Input "TH0"
-#define TEMP_BED_PIN                        PC3   // Analog Input "TB0"
+#define TEMP_BED_PIN                        -1 //PC3   // Analog Input "TB0"
 
 //
 // Heaters / Fans
